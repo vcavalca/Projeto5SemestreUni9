@@ -1,7 +1,7 @@
 ## Projeto semestral
 
 **Grupo:** 
-Vinicius Moura RA 2219204443 <br>
+<br>Vinicius Moura RA 2219204443 <br>
 Getulio Vilanova dos Santos RA 2219202701<br>
 Pedro Henrique RA 2219205952<br>
 Murilo Alexandre Araújo RA 2219200153<br>
