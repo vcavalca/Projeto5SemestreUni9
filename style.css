@@ -1,0 +1,23 @@
+body {
+	margin: 0px;
+	background: url();
+	background-repeat: repeat-x;
+	font-family: Verdana, Arial, sans-serif;
+        font-size: .6em;
+}
+
+/**** Footer ***/
+
+
+#footer {
+        margin: 40px auto 0 auto;
+	text-align: center;
+	border-top: dotted 1px gray;
+	padding: 20px 0 20px 0;
+	width: 70%;
+}
+
+#footer p {
+	margin: 0px;
+	padding: 0;
+}
