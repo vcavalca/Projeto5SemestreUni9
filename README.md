@@ -15,7 +15,7 @@ Site do Blog -> 54.94.31.63
 2- Localize o arquivo de chave privada. A chave usada para executar esta instância é debianCloud.pem<br>
 3- Execute este comando, se necessário, para garantir que sua chave não fique visível publicamente.<br>
 ```chmod 400 debianCloud.pem```<br>
-4- Conecte-se à sua instância usando sua DNS pública:`<br>
+4- Conecte-se à sua instância usando sua DNS pública:<br>
 `ec2-54-94-31-63.sa-east-1.compute.amazonaws.com`<br>
 Exemplo:<br>
 ```ssh -i "debianCloud.pem" admin@ec2-54-94-31-63.sa-east-1.compute.amazonaws.com -p 22```
