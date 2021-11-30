@@ -10,7 +10,7 @@ Repositório criado para o projeto do 5º semestre do curso de Tecnologia em An�
 
 Site do Blog -> 54.94.31.63
 
-#Para acesso ao sistema
+## Para acesso ao sistema
 1- Abra um cliente SSH.
 2- Localize o arquivo de chave privada. A chave usada para executar esta instância é debianCloud.pem
 3- Execute este comando, se necessário, para garantir que sua chave não fique visível publicamente.
@@ -20,5 +20,5 @@ Site do Blog -> 54.94.31.63
 Exemplo:
 `ssh -i "debianCloud.pem" admin@ec2-54-94-31-63.sa-east-1.compute.amazonaws.com -p 22`
 
-#CronJob
+## CronJob
 O sistema tem um script .sh, que a cada 1 minuto ele executa o comando git pull, e atualiza os arquivos na pasta raiz do sistema WEB, mantendo o site atualizado com a ultima versão disponivel no repositorio.
